@@ -1,3 +1,9 @@
 #Simon Says Game
 
-The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.
+Simon Says is a memory game in which the player must repeat a sequence of colors and sounds randomly throughout the game. The game consists of four colored buttons (red, green, yellow and blue) that light up and sound in a longer and longer sequence.
+
+#How to play?
+
+In order to play the game, the player must wait for a sequence of colors and sounds to be generated. The player must then repeat the sequence by pressing the corresponding buttons in the same order that they were lit. If the player makes a mistake, the game is over.
+
+![Alt text](simon_game-1.png)
